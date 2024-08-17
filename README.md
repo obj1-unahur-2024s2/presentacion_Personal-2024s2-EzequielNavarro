@@ -2,14 +2,14 @@
 
 ## Ezequiel Oscar Navarro
 
-Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta principio de este año donde logre ingresar a una consultora como Desarrollador, donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹 ,compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
+Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta principio de este año donde logre ingresar a una consultora como Desarrollador, estoy aprendiendo mucho en este trabajo ⛏️, el ambiente me genera ganas de seguir mejorando 💹, compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
 
 
 ## Me gusta:
 
 - Jugar al Football
 
-![GIF animado de ejemplo]([https://i.imgur.com/tu-gif.gif](https://tenor.com/es/view/sopranos-vito-happy-partying-having-fun-gif-16139754))
+![GIF animado de ejemplo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4bmU3dzY3NmIxOXNtcXVrbDZoaTVwNmRqeXBieW5qZTFvdmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVy9c5mLDv9MPg9C7p/giphy.gif)
 
 
 - Jugar Videojuegos:
