@@ -9,12 +9,12 @@ Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura i
 
 - Jugar al Football
 
-![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+![GIF animado de ejemplo]([https://i.imgur.com/tu-gif.gif](https://tenor.com/es/view/sopranos-vito-happy-partying-having-fun-gif-16139754))
 
 
 - Jugar Videojuegos:
 
-![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+![GIF animado de ejemplo]([https://i.imgur.com/tu-gif.gif](https://tenor.com/es/view/sopranos-vito-happy-partying-having-fun-gif-16139754))
 
 
 
