@@ -14,7 +14,7 @@ Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura i
 
 - Jugar Videojuegos:
 
-![GIF animado de ejemplo]([https://i.imgur.com/tu-gif.gif](https://tenor.com/es/view/sopranos-vito-happy-partying-having-fun-gif-16139754))
+![ Lol y demas ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4bmU3dzY3NmIxOXNtcXVrbDZoaTVwNmRqeXBieW5qZTFvdmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVy9c5mLDv9MPg9C7p/giphy.gif)
 
 
 
