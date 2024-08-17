@@ -1,14 +1,25 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-##Ezequiel Oscar Navarro
+## Ezequiel Oscar Navarro
 
 Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta principio de este año donde logre ingresar a una consultora como Desarrollador, donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹 ,compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
-Me gusta:
-Jugar al Football
 
-Jugar Videojuegos:
 
-Salir con amigos:
+## Me gusta:
+
+- Jugar al Football
+
+![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+
+- Jugar Videojuegos:
+
+![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+
+- Salir con amigos:
+
+![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+
+
 ```
 object programacionConObjetos { 
     method saludar() { 
