@@ -11,17 +11,16 @@ Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura i
 
 ![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
 
-<div class="tenor-gif-embed" data-postid="16139754" data-share-method="host" data-aspect-ratio="1.1985" data-width="100%"><a href="https://tenor.com/view/sopranos-vito-happy-partying-having-fun-gif-16139754">Sopranos Vito GIF</a>from <a href="https://tenor.com/search/sopranos-gifs">Sopranos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - Jugar Videojuegos:
 
 ![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
 
-<div class="tenor-gif-embed" data-postid="16139754" data-share-method="host" data-aspect-ratio="1.1985" data-width="100%"><a href="https://tenor.com/view/sopranos-vito-happy-partying-having-fun-gif-16139754">Sopranos Vito GIF</a>from <a href="https://tenor.com/search/sopranos-gifs">Sopranos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 - Salir con amigos:
 
-![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif)
+![GIF animado de ejemplo](https://i.imgur.com/tu-gif.gif](https://tenor.com/view/sopranos-vito-happy-partying-having-fun-gif-16139754))
 
 <div class="tenor-gif-embed" data-postid="16139754" data-share-method="host" data-aspect-ratio="1.1985" data-width="100%"><a href="https://tenor.com/view/sopranos-vito-happy-partying-having-fun-gif-16139754">Sopranos Vito GIF</a>from <a href="https://tenor.com/search/sopranos-gifs">Sopranos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
