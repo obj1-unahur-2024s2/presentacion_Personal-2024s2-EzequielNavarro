@@ -1,7 +1,6 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-Ezequiel Oscar Navarro
+##Ezequiel Oscar Navarro
 
 Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta principio de este año donde logre ingresar a una consultora como Desarrollador, donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹 ,compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
 Me gusta:
