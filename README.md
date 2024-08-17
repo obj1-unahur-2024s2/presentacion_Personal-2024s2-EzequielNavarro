@@ -2,7 +2,7 @@
 
 ## Ezequiel Navarro
 
-Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta hace unos meses, donde tuve la oportunidad de ingresar a una consultora donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹, compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
+Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Empece a estudiar en la universidad a finales de 2022, desde entonces , disfruto mucho venir a las clases para aprender nuevos conocimientos 🧠, cuando puedo aprovecho las actividades alternativas que ofrece el establecimiento 🏹 y trato de generar interraciones copadas con los compañeros ☕, siempre con buena onda!!!
 
 ```
 object estudianteDePOO { 
@@ -21,7 +21,7 @@ object estudianteDePOO {
 
 - Jugar Videojuegos:
 
-![ Lol y demas ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4bmU3dzY3NmIxOXNtcXVrbDZoaTVwNmRqeXBieW5qZTFvdmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVy9c5mLDv9MPg9C7p/giphy.gif)
+![ Lol y demas ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNibXB0ZzNnZ3M1aG8xZmh5OGJ1d3B3MnNuYWtzNWowYjA3a2R3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UMJ8lfwd3iqVJMBzG/giphy.gif)
 
 
 
