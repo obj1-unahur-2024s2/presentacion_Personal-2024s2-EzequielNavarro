@@ -22,7 +22,7 @@ object estudianteDePOO {
 
 - Jugar al Football
 
-![GIF animado de ejemplo](https://media.giphy.com/media/fOSXdOU71MJELWaG0N/giphy.gif)
+![fulbo](https://media.giphy.com/media/fOSXdOU71MJELWaG0N/giphy.gif)
 
 
 - Jugar Videojuegos:
@@ -34,8 +34,14 @@ object estudianteDePOO {
 - Salir con amigos:
 
 
-![ Lol y demas ](https://media.giphy.com/media/llkLQwgUun2mtotxJR/giphy.gif)
+![ fiesta ](https://media.giphy.com/media/llkLQwgUun2mtotxJR/giphy.gif)
 
+
+
+- Leer esporadicamente:
+
+
+![ zzz ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZmbml3MGxxc2duM3JyaTFxa3hqa29ibDE0OHBpcDA2czJ4OGtkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aE3aFl1iS6U1C8KWFI/giphy.gif)
 
 ```
 
