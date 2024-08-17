@@ -9,7 +9,7 @@ Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura i
 
 - Jugar al Football
 
-![GIF animado de ejemplo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg4bmU3dzY3NmIxOXNtcXVrbDZoaTVwNmRqeXBieW5qZTFvdmpoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVy9c5mLDv9MPg9C7p/giphy.gif)
+![GIF animado de ejemplo](https://media.giphy.com/media/l3UczVfUyvesAHcuA/giphy.gif?cid=790b7611eu2zl2hhd2qmrfdfs030cclfl59mjy5muwc175y5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 - Jugar Videojuegos:
