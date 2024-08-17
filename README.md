@@ -20,8 +20,8 @@ Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura i
 
 - Salir con amigos:
 
-![GIF animado de ejemplo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW9meThnZ2J6OWxxdXdnajlvdnp3ZmF2NGt5ZHBneDhpZTU4M2UwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llkLQwgUun2mtotxJR/giphy.gif)
 
+![ Lol y demas ](https://media.giphy.com/media/llkLQwgUun2mtotxJR/giphy.gif)
 
 
 ```
