@@ -2,7 +2,7 @@
 
 ## Ezequiel Navarro
 
-Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Empece a estudiar en la universidad a finales de 2022, desde entonces , disfruto mucho venir a las clases para aprender nuevos conocimientos 🧠, cuando puedo aprovecho las actividades alternativas que ofrece el establecimiento 🏹 y trato de generar interraciones copadas con los compañeros ☕, siempre con buena onda!!!
+Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Empece a estudiar en la universidad a finales de 2022, desde entonces , disfruto mucho venir a las clases para aprender nuevos conocimientos 🧠, cuando puedo aprovecho las actividades alternativas que ofrece el establecimiento 🏹 y trato de generar interraciones copadas con los compañeros ☕, siempre con buena onda!
 
 ```
 object estudianteDePOO { 
