@@ -2,7 +2,7 @@
 
 ## Ezequiel Navarro
 
-Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta principio de este año que logre ingresar a una consultora donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹, compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
+Hola! Me llamo Ezequiel 🤓 y estoy cursando el primer año de la Tecnicatura informatica en Programación. Trabaje en rubros ajenos a IT hasta hace unos meses, donde tuve la oportunidad de ingresar a una consultora donde estoy aprendiendo mucho ⛏️, el ambiente me genera ganas de seguir mejorando 💹, compartir conocimientos de ser posible 🧠 y buena onda sobre todo 😎. 
 
 ```
 object estudianteDePOO { 
@@ -47,4 +47,5 @@ object programacionConObjetos {
 
 
 
-Saludos y Exitos !
+
+" Saludos y Exitos ! "
