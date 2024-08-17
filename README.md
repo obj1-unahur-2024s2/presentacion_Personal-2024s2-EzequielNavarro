@@ -8,6 +8,7 @@ disfruto mucho venir a las clases para aprender nuevos conocimientos 🧠,
 cuando puedo aprovecho las actividades alternativas que ofrece el establecimiento 🏹 
 y trato de generar interraciones copadas con los compañeros ☕, siempre con buena onda!
 
+
 ```
 object estudianteDePOO { 
     method saludar() { 
@@ -15,6 +16,7 @@ object estudianteDePOO {
     }
 }
 ```
+
 
 ## Me gusta:
 
@@ -46,5 +48,5 @@ object estudianteDePOO {
 
 
 
-
-" Saludos y Exitos ! "
+```
+## Saludos y exitos!
