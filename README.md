@@ -32,12 +32,7 @@ object estudianteDePOO {
 
 
 ```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bueeenaas!" 
-    }
-}
-```
+
 
 ## Lo que espero de la cursada:
 * Aprender y poder implementar lo aprendido 🐐.
