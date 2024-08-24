@@ -18,7 +18,7 @@ object estudianteDePOO {
 ```
 
 
-## Me gusta:
+## Mis gustos:
 
 - Jugar al Football
 
